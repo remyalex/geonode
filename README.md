@@ -1,7 +1,21 @@
-![GeoNode](https://raw.githubusercontent.com/GeoNode/documentation/master/about/img/geonode-logo_for_readme.gif "GeoNode")
-![OSGeo Project](https://www.osgeo.cn/qgis/_static/images/osgeoproject.png)
-![ColLogoMADS1](https://www.minambiente.gov.co/wp-content/uploads/2023/05/LOGO_AMBIENTE_2023_01.png)
-![ColLogoMADS2](https://www.minambiente.gov.co/wp-content/uploads/2023/05/LOGO_AMBIENTE_2023_02-1.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/GeoNode/documentation/master/about/img/geonode-logo_for_readme.gif" alt="GeoNode" width="150">
+    </td>
+    <td align="center">
+      <img src="https://www.osgeo.cn/qgis/_static/images/osgeoproject.png" alt="OSGeo Project" width="150">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.minambiente.gov.co/wp-content/uploads/2023/05/LOGO_AMBIENTE_2023_01.png" alt="ColLogoMADS1" width="150">
+    </td>
+    <td align="center">
+      <img src="https://www.minambiente.gov.co/wp-content/uploads/2023/05/LOGO_AMBIENTE_2023_02-1.png" alt="ColLogoMADS2" width="150">
+    </td>
+  </tr>
+</table>
 
 Table of Contents
 =================
