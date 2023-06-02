@@ -34,7 +34,7 @@ Table of Contents
 
 SIAC GeoNode?
 ----------------
-![LogoSIAC](https://mads.maps.arcgis.com/sharing/rest/content/items/7d3fd32eda7d4c07970c69b9564456c5/resources/MADS-SIAC2022.png?token=YTS9qDCEHIfmA_yntgn1jzF5dpzYbpw7rmyxSgXymKVzkVfEGXFKO7R_YrRjZKwW8WAb3iUa0mJyoCKelLNZq52Ow5QN_xJ1bioa9vhQ5Js44V0UgIoZke5v9x5do871khAkT5TgJTn-4WhnLC89kv4B9_rrMFWJE3k_VwvpIxFGvHPPPu5q7S54kY4lSMEBej1zRgq9xDAFa1R4_sS_hbGZw2r3P6_yOnhFs_lG808.&v=1685574974235)
+![LogoSIAC](https://www.arcgis.com/sharing/rest/content/items/7d3fd32eda7d4c07970c69b9564456c5/resources/MADS-SIAC2022.png?v=1685689481075)
 
 GeoNode is a geospatial content management system, a platform for the
 management and publication of geospatial data. It brings together mature
